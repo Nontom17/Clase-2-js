@@ -1,17 +1,3 @@
-//Ejercicio 1
-
-let nombre = prompt("¿Cual es tu nombre?");
-
-console.log("¡Hola, "+ nombre + "!");
-
-
-
-
-
-
-
-
-
 //Ejercicio 6
 
 let minutos = Number(prompt("ingrese los minutos"));
